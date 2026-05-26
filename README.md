@@ -27,7 +27,8 @@ opportunities, flag anomalous purchases, and evaluate supplier performance.
 |------|-------------|
 | `procurement_analysis.py` | Full analysis script |
 | `sample_data.csv` | Sample procurement dataset |
-
+## Sample Output
+![Analysis Output](output_screenshot.png)
 ## How to Run
 1. Go to [Google Colab](https://colab.research.google.com/)
 2. Click **New Notebook**
